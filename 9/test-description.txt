@@ -1,0 +1,15 @@
+There are 3 test cases attached:
+
+test1:(NORMAL Scenario)
+This test case has 3 cows painted with RED paint.
+Blue ball triggers no paint balls nor paints any cow.
+
+
+test2:(NOTHING CONNECTED)
+This test case has no cows painted and no paints triggered.
+No cows are painted, every nodes are disjoint.
+
+
+test3:(ONLY ONE CONNECTED)
+This test case only Yellow paint connected to cows
+And that 3 cows are painted yellow.

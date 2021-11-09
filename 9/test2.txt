@@ -1,0 +1,8 @@
+cow Daisy 1 4
+paintball BLUE 10 5 1
+cow Fauntleroy 3 2
+paintball RED 9 4 1
+paintball YELLOW 12 3 1
+cow Babe 3 4
+cow Milka 6 3
+paintball GREEN 8 5 1
